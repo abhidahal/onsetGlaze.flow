@@ -15,7 +15,13 @@
 
 ## ⚙️ Installation
 
-```
+>Use bash or powershell terminal.
+
+```Shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
 git clone git@github.com:abhidahal/onsetGlaze.flow.git .
 ```
+
+>Go to Flowlauncher setting>Theme and select OnsetGlaze as your theme.
+
+![image](https://user-images.githubusercontent.com/87414003/208308621-1c151998-c78f-4d08-9baa-5f52e2f4e1a7.png)
