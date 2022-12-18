@@ -1,0 +1,373 @@
+
+{
+  "Hotkey": "Home",
+  "OpenResultModifiers": "Alt",
+  "ColorScheme": "Dark",
+  "ShowOpenResultHotkey": true,
+  "WindowSize": 800,
+  "Language": "en",
+  "Theme": "OnsetGlaze",
+  "UseDropShadowEffect": false,
+  "QueryBoxFont": "Microsoft Sans Serif",
+  "QueryBoxFontStyle": null,
+  "QueryBoxFontWeight": null,
+  "QueryBoxFontStretch": null,
+  "ResultFont": "Microsoft Sans Serif",
+  "ResultFontStyle": null,
+  "ResultFontWeight": null,
+  "ResultFontStretch": null,
+  "UseGlyphIcons": true,
+  "UseAnimation": true,
+  "UseSound": true,
+  "UseClock": true,
+  "UseDate": true,
+  "TimeFormat": "hh:mm tt",
+  "DateFormat": "dddd dd\u0027, \u0027MMMM",
+  "FirstLaunch": false,
+  "SettingWindowWidth": 1000,
+  "SettingWindowHeight": 700,
+  "SettingWindowTop": 67.2,
+  "SettingWindowLeft": 100,
+  "SettingWindowState": 0,
+  "CustomExplorerIndex": 0,
+  "CustomExplorerList": [
+    {
+      "Name": "Explorer",
+      "Path": "explorer",
+      "FileArgument": "/select, \u0022%f\u0022",
+      "DirectoryArgument": "\u0022%d\u0022",
+      "Editable": false
+    },
+    {
+      "Name": "Total Commander",
+      "Path": "C:\\Program Files\\totalcmd\\TOTALCMD64.exe",
+      "FileArgument": "/O /A /S /T \u0022%f\u0022",
+      "DirectoryArgument": "/O /A /S /T \u0022%d\u0022",
+      "Editable": true
+    },
+    {
+      "Name": "Directory Opus",
+      "Path": "C:\\Program Files\\GPSoftware\\Directory Opus\\dopusrt.exe",
+      "FileArgument": "/cmd Go \u0022%f\u0022 NEW",
+      "DirectoryArgument": "/cmd Go \u0022%d\u0022 NEW",
+      "Editable": true
+    },
+    {
+      "Name": "Files",
+      "Path": "Files",
+      "FileArgument": "-select \u0022%f\u0022",
+      "DirectoryArgument": "-select \u0022%d\u0022",
+      "Editable": true
+    }
+  ],
+  "CustomBrowserIndex": 0,
+  "CustomBrowserList": [
+    {
+      "Name": "Default",
+      "Path": "*",
+      "PrivateArg": "",
+      "EnablePrivate": false,
+      "OpenInTab": true,
+      "Editable": false
+    },
+    {
+      "Name": "Google Chrome",
+      "Path": "chrome",
+      "PrivateArg": "-incognito",
+      "EnablePrivate": false,
+      "OpenInTab": true,
+      "Editable": false
+    },
+    {
+      "Name": "Mozilla Firefox",
+      "Path": "firefox",
+      "PrivateArg": "-private",
+      "EnablePrivate": false,
+      "OpenInTab": true,
+      "Editable": false
+    },
+    {
+      "Name": "MS Edge",
+      "Path": "msedge",
+      "PrivateArg": "-inPrivate",
+      "EnablePrivate": false,
+      "OpenInTab": true,
+      "Editable": false
+    }
+  ],
+  "ShouldUsePinyin": false,
+  "AlwaysPreview": true,
+  "QuerySearchPrecision": "Regular",
+  "AutoUpdates": true,
+  "WindowLeft": 624,
+  "WindowTop": 278.4,
+  "MaxResultsToShow": 8,
+  "ActivateTimes": 418,
+  "CustomPluginHotkeys": [
+    {
+      "Hotkey": "Alt \u002B Q",
+      "ActionKeyword": "t "
+    }
+  ],
+  "CustomShortcuts": [
+    {
+      "Value": "photoshop",
+      "Key": "ps"
+    }
+  ],
+  "DontPromptUpdateMsg": false,
+  "EnableUpdateLog": false,
+  "StartFlowLauncherOnSystemStartup": true,
+  "HideOnStartup": false,
+  "HideNotifyIcon": true,
+  "LeaveCmdOpen": false,
+  "HideWhenDeactive": true,
+  "SearchWindowPosition": 1,
+  "IgnoreHotkeysOnFullscreen": false,
+  "Proxy": {
+    "Enabled": false,
+    "Server": null,
+    "Port": 0,
+    "UserName": null,
+    "Password": null
+  },
+  "LastQueryMode": "Selected",
+  "PluginSettings": {
+    "PythonDirectory": "C:\\Users\\Acer\\AppData\\Local\\Programs\\Python\\Python310",
+    "Plugins": {
+      "0ECADE17459B49F587BF81DC3A125110": {
+        "ID": "0ECADE17459B49F587BF81DC3A125110",
+        "Name": "Browser Bookmarks",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "b"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "CEA0FDFC6D3B4085823D60DC76F28855": {
+        "ID": "CEA0FDFC6D3B4085823D60DC76F28855",
+        "Name": "Calculator",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "572be03c74c642baae319fc283e561a8": {
+        "ID": "572be03c74c642baae319fc283e561a8",
+        "Name": "Explorer",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*",
+          "doc:",
+          "*",
+          "*",
+          "*"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "6A122269676E40EB86EB543B945932B9": {
+        "ID": "6A122269676E40EB86EB543B945932B9",
+        "Name": "Plugin Indicator",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "9f8f9b14-2518-4907-b211-35ab6290dee7": {
+        "ID": "9f8f9b14-2518-4907-b211-35ab6290dee7",
+        "Name": "Plugins Manager",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "pm"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "b64d0a79-329a-48b0-b53f-d658318a1bf6": {
+        "ID": "b64d0a79-329a-48b0-b53f-d658318a1bf6",
+        "Name": "Process Killer",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "kill"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "791FC278BA414111B8D1886DFE447410": {
+        "ID": "791FC278BA414111B8D1886DFE447410",
+        "Name": "Program",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "D409510CD0D2481F853690A07E6DC426": {
+        "ID": "D409510CD0D2481F853690A07E6DC426",
+        "Name": "Shell",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "\u003E"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "CEA08895D2544B019B2E9C5009600DF4": {
+        "ID": "CEA08895D2544B019B2E9C5009600DF4",
+        "Name": "System Commands",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "0308FD86DE0A4DEE8D62B9B535370992": {
+        "ID": "0308FD86DE0A4DEE8D62B9B535370992",
+        "Name": "URL",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "565B73353DBF4806919830B9202EE3BF": {
+        "ID": "565B73353DBF4806919830B9202EE3BF",
+        "Name": "Web Searches",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "*",
+          "sc",
+          "wiki",
+          "twitter",
+          "maps",
+          "translate",
+          "duckduckgo",
+          "github",
+          "gist",
+          "gmail",
+          "drive",
+          "wolframalpha",
+          "bing",
+          "yahoo",
+          "bd",
+          "fb",
+          "img",
+          "icon",
+          "sof",
+          "yts"
+        ],
+        "Priority": -1,
+        "Disabled": false
+      },
+      "5043CETYU6A748679OPA02D27D99677A": {
+        "ID": "5043CETYU6A748679OPA02D27D99677A",
+        "Name": "Windows Settings",
+        "Version": "3.0.0",
+        "ActionKeywords": [
+          "s"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "4579F00804F94B54B23CF207856E495F": {
+        "ID": "4579F00804F94B54B23CF207856E495F",
+        "Name": "Google Search Plus",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "gs"
+        ],
+        "Priority": -2,
+        "Disabled": false
+      },
+      "6c22cffe6b3546ec9087abe149c4a575": {
+        "ID": "6c22cffe6b3546ec9087abe149c4a575",
+        "Name": "GitHub",
+        "Version": "1.2.2",
+        "ActionKeywords": [
+          "ghs"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "525995402BEF4A8CA860D92F6D108092": {
+        "ID": "525995402BEF4A8CA860D92F6D108092",
+        "Name": "VS Code Workspaces",
+        "Version": "1.1.3",
+        "ActionKeywords": [
+          "{"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "240B648F33DD4105800747A2749E1B5C": {
+        "ID": "240B648F33DD4105800747A2749E1B5C",
+        "Name": "Github Quick Launcher",
+        "Version": "1.5.0",
+        "ActionKeywords": [
+          "gh"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "d91d366e4ff742b3b821f9d60031c3df": {
+        "ID": "d91d366e4ff742b3b821f9d60031c3df",
+        "Name": "Search npm",
+        "Version": "1.0.2",
+        "ActionKeywords": [
+          "npm"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "14b986ef-45ec-44c1-be66-cab460a771f7": {
+        "ID": "14b986ef-45ec-44c1-be66-cab460a771f7",
+        "Name": "DevToys Launcher",
+        "Version": "1.0.0",
+        "ActionKeywords": [
+          "dtoys"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "a56ae6ac-7b3b-47b9-857f-05ff25d29510": {
+        "ID": "a56ae6ac-7b3b-47b9-857f-05ff25d29510",
+        "Name": "Windows Terminal profiles",
+        "Version": "0.0.8",
+        "ActionKeywords": [
+          "wt"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "42DE0794627A48B2847E6FDF29DD5561": {
+        "ID": "42DE0794627A48B2847E6FDF29DD5561",
+        "Name": "FlowYouTube",
+        "Version": "2.0.0",
+        "ActionKeywords": [
+          "yt"
+        ],
+        "Priority": 0,
+        "Disabled": false
+      },
+      "F737A9223560B3C6833B5FFB8CDF78E5": {
+        "ID": "F737A9223560B3C6833B5FFB8CDF78E5",
+        "Name": "Window Walker",
+        "Version": "2.2.2",
+        "ActionKeywords": [
+          "t"
+        ],
+        "Priority": 1,
+        "Disabled": false
+      }
+    }
+  }
+}
