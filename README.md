@@ -15,11 +15,7 @@
 
 ## ⚙️ Installation
 
-Install the theme with your preferred package manager:
-
-[vim-plug](https://github.com/junegunn/vim-plug)
-
-```vim
+```
 cd C:\Users\<USER_NAME>\AppData\Roaming\FlowLauncher\Themes
 git clone git@github.com:abhidahal/onsetGlaze.flow.git .
 ```
