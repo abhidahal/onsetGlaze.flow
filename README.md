@@ -16,6 +16,6 @@
 ## ⚙️ Installation
 
 ```
-cd ~/AppData\Roaming\FlowLauncher\Themes
+cd ~/AppData/Roaming/FlowLauncher/Themes
 git clone git@github.com:abhidahal/onsetGlaze.flow.git .
 ```
