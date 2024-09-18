@@ -2,7 +2,7 @@
 
 **onsetGlaze** is a theme for flow launcher with Acrylic/Glass effect customized to fit in with my [OnsetGlaze.nvim](https://github.com/abhidahal/OnsetGlaze.nvim) Colorscheme for nvim.
 
-## 🖼️ Theme Dispaly
+## 🖼️ Theme Display
 
 <img src="https://user-images.githubusercontent.com/87414003/208306465-e40cbb55-beb5-4b04-a1fc-6296ee3c6e83.png" alt="" width="800">
 
